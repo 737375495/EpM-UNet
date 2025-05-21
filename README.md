@@ -49,7 +49,7 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 ```bash
 cd EpM-UNet
 python train.py  # Train and test VM-UNet on the FIO-EP dataset.
-
+```
 
 
 ## 3. Obtain the outputs
