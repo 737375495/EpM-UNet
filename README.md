@@ -36,7 +36,7 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
       - .tif
 
 ### Synapse datasets
-- For the Synapse dataset, you could follow [H-vmunet](https://github.com/wurenkai/H-vmunet?tab=readme-ov-file) to make the dataset.
+- For the Synapse dataset, you could use dataprepare to make the dataset.
 - './data/FIO-EP/'
   - data_test.npy
   - data_train.npy
